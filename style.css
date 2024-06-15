@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffcb05;
+    color: #2a75bb;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #2a75bb;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #2a75bb;
+}
+
+footer {
+    background-color: #2a75bb;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer a {
+    color: #ffcb05;
+    text-decoration: none;
+}
+
+.episodio {
+    margin-bottom: 20px;
+}
+
+.episodio h3 {
+    color: #2a75bb;
+}
+
+.episodio p {
+    text-align: justify;
+}
+
+
